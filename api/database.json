@@ -1,0 +1,25 @@
+{
+    "employees" : [
+        {
+            "id" : 1,
+            "firstName" : "Prafullata",
+            "lastName" : "Sonawane",
+            "jobTitla" : "S/W Engg.",
+            "computerId" : 1,
+            "departmentId": 1
+        }
+    ],
+    "computers" : [
+        {
+            "id" : 1,
+            "make" : "HP",
+            "model" : "Pavilion"
+        }
+    ],
+    "departments" : [
+        {
+            "id" : 1,
+            "DeptName" : "NSS"
+        }
+    ]
+}
