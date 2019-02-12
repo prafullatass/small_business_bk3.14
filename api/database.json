@@ -7,6 +7,14 @@
             "jobTitla" : "S/W Engg.",
             "computerId" : 1,
             "departmentId": 1
+        },
+        {
+            "id" : 2,
+            "firstName" : "Sandeep",
+            "lastName" : "S",
+            "jobTitla" : "S/W developer",
+            "computerId" : 1,
+            "departmentId": 1
         }
     ],
     "computers" : [
